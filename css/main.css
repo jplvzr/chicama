@@ -3,7 +3,7 @@ body {
 }
 /* HEADER */
 
-header .container {
+header {
 	background-image: url("../img/grupal.jpg");
 	background-repeat: no-repeat;
 	background-size: cover;
@@ -24,6 +24,7 @@ nav {
 nav a {
 	margin-right: 7px;
 }
+
 .button {
 	border: 1px solid #FCB739;
 	border-radius: 3px;
